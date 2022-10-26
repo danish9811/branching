@@ -16,3 +16,10 @@ ipsa minima repellat. A accusamus consequuntur dicta dolor dolorem fuga labore l
 sapiente voluptatem voluptatum! A assumenda cum delectus eveniet ex impedit iure iusto minus modi natus, nihil non porro
 repellendus, repudiandae suscipit tempora voluptates. Assumenda, quam.
 
+### what to do ? 
+> agr 2 branches `master` or `main` hen, or master kuch steps/commits aagy chala gya hai, or ham main pr hen, ham chahty hen
+ki `master` waly changes hmary `main` k pas aa jayen , to ham simply main checkout kr k command 
+```ssh
+git pull origin master
+```
+
